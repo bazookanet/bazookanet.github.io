@@ -1,1 +1,1 @@
-# bazookanet.github.io
+bazookanet.github.io
